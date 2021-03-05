@@ -5,8 +5,8 @@
 ## Model
 
 - Keras pretrained model VGG16:
-    Model Test Loss: 0.01
-    Model Test Accuracy: 0.99
+    - Model Test Loss: 0.01
+    - Model Test Accuracy: 0.99
 
 
 ## Technologies:
