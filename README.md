@@ -1,6 +1,6 @@
 # RockPaperScissors-ImageClassification with Keras
 
-[![HitCount](http://hits.dwyl.com/adhyttungga/Credit_Card_Data-Clustering.svg)](http://hits.dwyl.com/adhyttungga/Credit_Card_Data-Clustering)
+[![HitCount](http://hits.dwyl.com/adhyttungga/rockpaperscissors-Classification.svg)](http://hits.dwyl.com/adhyttungga/rockpaperscissors-Classification)
 
 ## Model
 
